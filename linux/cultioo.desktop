@@ -4,5 +4,5 @@ Name=Cultioo
 Comment=Cultioo Application
 Exec=cultioo
 Icon=cultioo
-Categories=Business;
+Categories=Office;
 Terminal=false
