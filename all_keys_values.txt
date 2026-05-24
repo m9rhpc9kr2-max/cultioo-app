@@ -1,0 +1,1136 @@
+2fa_disabled|||2FA disabilitata con successo
+a_driver_has_been_assigned_to_your_order|||Un autista è stato assegnato al tuo ordine
+about|||Informazioni
+accept_driver|||Accetta autista
+accept_net_30_terms|||Accetta termini Net 30
+accept_net_60_terms|||Accetta termini Net 60
+accepted|||Accettato
+account|||Account
+account_created|||Account creato
+account_created_can_sign_in|||Account creato con successo! Ora puoi accedere.
+account_created_success|||Account creato con successo!
+account_deleted_success|||Account eliminato con successo
+account_holder|||Titolare del conto
+account_holder_name|||Nome del titolare
+account_information|||Informazioni account
+account_number|||Numero di conto
+account_number_copied|||Numero di conto copiato negli appunti
+account_number_copied_1|||Numero di conto copiato
+account_successfully_created_and_logged_in|||Account creato e accesso effettuato con successo!
+account_suspended|||Account sospeso
+account_verified|||Account verificato!
+achEndingIn|||ACH •••• {last4}
+ach_bank_transfer|||Bonifico bancario ACH
+ach_direct_debit|||Addebito diretto ACH
+ach_payment_instructions|||Istruzioni pagamento ACH
+ach_transfer|||Trasferimento ACH
+action_required|||Azione richiesta
+add|||Aggiungi
+add_a_comment_optional|||Aggiungi un commento (opzionale)
+add_a_note_optional|||Aggiungi una nota (opzionale)
+add_a_note_optionalnexample_please_take_photos_of_|||Aggiungi una nota (opzionale)...\nEsempio: Si prega di fotografare i prodotti ne
+add_a_payment_method_to_get_started|||Aggiungi un metodo di pagamento per iniziare
+add_address|||Aggiungi indirizzo
+add_an_address_in_settings|||Aggiungi un indirizzo nelle impostazioni
+add_new_address|||Aggiungi nuovo indirizzo
+add_payment_method|||Aggiungi metodo di pagamento
+add_to_cart|||Aggiungi al carrello
+add_to_cart_1|||Aggiungi al carrello
+add_your_first_address_to_get_started|||Aggiungi il tuo primo indirizzo per iniziare
+added_to_favorites|||Aggiunto ai preferiti
+address|||Indirizzo
+address_actions|||Azioni indirizzo
+address_deleted_success|||Indirizzo eliminato con successo
+address_information_not_available|||Informazioni indirizzo non disponibili
+address_not_available|||Indirizzo non disponibile
+admin|||Admin
+agricultural_products_on_cultioonn_fruits_vegetabl|||Prodotti agricoli su Cultioo:\n\n🍎 Frutta e Verdura\n🥛 Latticini e Uova\n🥩 Carne
+all|||Tutti
+all_categories|||Tutte le categorie
+all_done|||Tutto fatto! 🎉
+all_locations|||Tutte le posizioni
+all_months|||Tutti i mesi
+already_have_an_account|||Hai già un account? 
+always_in_stock|||Sempre
+always_online|||Sempre online
+amount_to_transfer|||Importo da trasferire
+amount_to_transfer_1|||Importo da trasferire
+an_error_occurred|||Si è verificato un errore
+an_error_occurred_during_biometric_test|||Si è verificato un errore durante il test biometrico
+an_error_occurred_please_try_again|||Si è verificato un errore. Riprova.
+an_error_occurred_while_processing_your_payment|||Si è verificato un errore durante l\'elaborazione del pagamento.
+appearance|||Aspetto
+apple_maps|||Apple Maps
+apple_pay|||Apple Pay
+approval_request_sent|||Ordini salvati e richiesta di approvazione inviata! 📤
+approval_required|||Approvazione richiesta
+approval_requirement_disabled|||Requisito di approvazione disabilitato
+approve|||Approva
+approved|||Approvato ✅
+are_you_sure_you_want_to_delete_this_address|||Sei sicuro di voler eliminare questo indirizzo?
+are_you_sure_you_want_to_disable_twofactor_authent|||Sei sicuro di voler disabilitare l\'autenticazione a due fattori? Questo renderà
+are_you_sure_you_want_to_disable_twofactor_authent_1|||Sei sicuro di voler disabilitare l\'autenticazione a due fattori? Questo ridurrà
+are_you_sure_you_want_to_reset_all_settings_to_the|||Sei sicuro di voler ripristinare tutte le impostazioni ai valori predefiniti?
+arkadiy_tatarynskyy|||Arkadiy Tatarynskyy
+ask_driver_to_check_product_temperature|||Chiedi all\'autista di controllare la temperatura dei prodotti
+ask_driver_to_take_photos|||Chiedi all\'autista di scattare foto
+auction_duration|||Durata dell\'asta
+auction_ended|||Asta terminata
+auction_expired|||Asta scaduta
+auction_reset_locally_you_can_start_a_new_auction|||Asta reimpostata localmente. Puoi avviare una nuova asta.
+auction_reset_you_can_start_a_new_auction|||Asta reimpostata. Puoi avviare una nuova asta.
+auction_started_drivers_can_now_submit_bids|||Asta avviata! Gli autisti possono ora inviare offerte.
+authenticate_to_access_your_account|||Autenticati per accedere al tuo account
+authenticate_to_access_your_cultioo_account|||Autenticati per accedere al tuo account Cultioo
+auto_login_failed|||Accesso automatico fallito. Effettua l\'accesso manualmente.
+available|||Disponibile
+available_drivers|||Autisti disponibili
+awaiting_payment|||In attesa di pagamento
+bank_account|||Conto bancario
+bank_account_13_days|||Conto bancario • 1-3 giorni
+bank_name_optional|||Nome banca (opzionale)
+bank_transfer|||BONIFICO BANCARIO
+bic_copied_to_clipboard|||BIC copiato negli appunti
+bio_control|||Controllo biologico
+biometric_authentication|||Autenticazione biometrica
+biometric_authentication_disabled|||Autenticazione biometrica disabilitata
+biometric_authentication_enabled|||Autenticazione biometrica abilitata
+biometric_authentication_is_not_available_on_this_|||L\'autenticazione biometrica non è disponibile su questo dispositivo
+biometric_authentication_not_available_or_not_enab|||Autenticazione biometrica non disponibile o non abilitata
+biometric_authentication_requires_updated_app_conf|||L\'autenticazione biometrica richiede una configurazione aggiornata dell\'app
+biometric_failed|||Autenticazione biometrica fallita
+biometric_test_info|||Testiamo la tua autenticazione biometrica per assicurarci che funzioni correttam
+birth_date|||Data di nascita
+bitte_fge_zuerst_eine_zahlungsmethode_hinzu|||Per favore aggiungi prima un metodo di pagamento.
+block|||Blocca
+block_user|||Blocca utente
+blockedTime|||Bloccato {time}
+blocked_users|||Utenti bloccati
+business_email|||Email aziendale
+business_information|||Informazioni aziendali
+business_name|||Nome azienda
+business_payment|||Pagamento aziendale
+business_phone|||Telefono aziendale
+business_verified_processing_payment_terms|||Attività verificata! Elaborazione termini di pagamento...
+buyer|||Acquirente
+buyer_pays_shipping|||L\'acquirente paga la spedizione
+by_continuing_you_agree_to_these_terms|||Continuando, accetti questi termini.
+by_status|||Per stato
+cancel|||Annulla
+cancel_order|||Annulla ordine
+cancel_order_1|||Annullare l\'ordine?
+cancelled|||Annullato
+cannot_unfollow_yourself|||Non puoi smettere di seguire te stesso
+capture_required|||Acquisizione richiesta
+card_number|||Numero carta
+card_options|||Opzioni carta
+card_payment|||Pagamento con carta
+card_sepa_ach_wire_transfer|||Carta, SEPA, ACH, Bonifico
+cardholder_name|||NOME TITOLARE
+cardholder_name_1|||Nome titolare
+carriage_and_insurance_paid_seller_pays_freight_an|||Trasporto e Assicurazione Pagati - Il venditore paga trasporto e assicurazione
+carriage_paid_to_seller_pays_freight_to_destinatio|||Trasporto Pagato Fino A - Il venditore paga il trasporto fino a destinazione
+certificate_fee|||Tassa certificato
+change_name_email_phone|||Modifica nome, email, telefono, data di nascita
+change_password|||Cambia password
+changing|||Modifica in corso...
+chat|||Chat
+chat_deleted_locally|||Chat eliminata localmente
+chat_function_is_currently_not_available|||La funzione chat non è attualmente disponibile
+chat_options|||Opzioni chat
+chat_permanently_deleted|||Chat eliminata definitivamente
+chat_restored|||Chat ripristinata
+checking_payment_statuses|||Controllo stati di pagamento
+checkout|||Checkout
+choose_a_strong_password_with_at_least_6_character|||Scegli una password sicura con almeno 6 caratteri
+choose_an_action_for_this_pdf_file|||Scegli un\'azione per questo file PDF
+choose_app_currency|||Scegli la valuta di visualizzazione
+choose_app_language|||Scegli la lingua dell\'app
+choose_auth_method|||Scegli metodo di autenticazione
+choose_how_you_want_to_pay|||Scegli come vuoi pagare
+choose_payment|||Scegli pagamento
+choose_which_invoice_to_download|||Scegli quale fattura scaricare
+city|||Città
+cleaning_certificate|||Certificato di pulizia
+cleaning_required|||Pulizia richiesta
+clear_all|||Cancella tutto
+close|||Chiudi
+code_copied|||Codice copiato!
+code_will_autosubmit_when_complete|||Il codice verrà inviato automaticamente una volta completato
+communication|||Comunicazione
+compare_offers_to_find_the_best_price|||Confronta le offerte per trovare il miglior prezzo
+complete_address_fields|||Completa tutti i campi dell\'indirizzo
+complete_order|||Completa ordine
+confirm|||Conferma
+confirm_ach_transfer|||Conferma trasferimento ACH
+confirm_driver|||Conferma autista
+confirm_driver_selection|||Conferma selezione autista
+confirm_new_password|||Conferma nuova password
+confirm_password|||Conferma password
+confirm_password_is_required|||La conferma password è obbligatoria
+confirm_sepa_transfer|||Conferma trasferimento SEPA
+confirm_transfer|||Conferma trasferimento
+confirm_wire_transfer|||Conferma bonifico
+confirmation_required|||Conferma richiesta
+confirmed|||Confermato
+connected_accounts|||Account collegati
+connection_error|||Errore di connessione durante l\'accesso automatico
+connection_timeout_please_check_your_internet|||Timeout di connessione - controlla la tua connessione internet
+contact_driver|||Contatta autista
+contact_information|||Informazioni di contatto
+contact_seller|||Contatta venditore
+continue|||Continua
+continue_shopping|||Continua gli acquisti
+continue_to_payment|||Continua al pagamento
+continue_with_google|||Continua con Google
+cost_and_freight_seller_pays_freight_to_destinatio|||Costo e Nolo - Il venditore paga il trasporto fino al porto di destinazione
+cost_insurance_and_freight_seller_pays_freight_and|||Costo Assicurazione e Nolo - Il venditore paga trasporto e assicurazione
+could_not_access_downloads_directory|||Impossibile accedere alla cartella download
+could_not_load_image|||Impossibile caricare l\'immagine
+could_not_load_products_from_server_categories_ava|||Impossibile caricare i prodotti dal server. Categorie disponibili offline.
+could_not_open_app_settings_please_enable_storage_|||Impossibile aprire le impostazioni dell\'app. Abilita manualmente i permessi di 
+could_not_open_image_in_browser|||Impossibile aprire l\'immagine nel browser
+could_not_open_pdf|||Impossibile aprire il PDF
+could_not_sync_favorites_using_offline_data|||Impossibile sincronizzare i preferiti. Utilizzo dati offline.
+country|||Paese
+country_at|||Austria
+country_be|||Belgio
+country_bg|||Bulgaria
+country_ca|||Canada
+country_ch|||Svizzera
+country_code|||Prefisso telefonico
+country_cy|||Cipro
+country_cz|||Repubblica Ceca
+country_de|||Germania
+country_dk|||Danimarca
+country_ee|||Estonia
+country_es|||Spagna
+country_fi|||Finlandia
+country_fr|||Francia
+country_gb|||Regno Unito
+country_gr|||Grecia
+country_hr|||Croazia
+country_hu|||Ungheria
+country_ie|||Irlanda
+country_it|||Italia
+country_lt|||Lituania
+country_lu|||Lussemburgo
+country_lv|||Lettonia
+country_mt|||Malta
+country_mx|||Messico
+country_nl|||Paesi Bassi
+country_no|||Norvegia
+country_pl|||Polonia
+country_pt|||Portogallo
+country_ro|||Romania
+country_ru|||Russia
+country_se|||Svezia
+country_si|||Slovenia
+country_sk|||Slovacchia
+country_us|||Stati Uniti
+create_account|||Crea account
+create_group|||Crea gruppo
+create_your_cultioo_account_and_get_started|||Crea il tuo account Cultioo e inizia.
+create_your_first_team|||Crea il tuo primo team
+creating|||Creazione...
+credit_card|||Carta di credito
+credit_debit_card|||Carta di credito e debito
+credit_limit|||Limite di credito
+credit_or_debit_card|||Carta di credito o debito
+credit_utilization|||Utilizzo del credito
+cultioo_gmbh|||Cultioo GmbH
+cultioo_payment_optionsnn_credit_card_visa_masterc|||Opzioni di pagamento Cultioo:\n\n💳 **Carta di Credito** (Visa, Mastercard, Amex)
+cultioo_payments_llc|||Cultioo Payments LLC
+cultioo_supportnn_supportcultioocomn_wwwcultioocom|||Supporto Cultioo:\n\n📧 **support@cultioo.com**\n🌐 www.cultioo.com\n\nPer questio
+currency|||Valuta
+currency_bgn|||Lev bulgaro (лв)
+currency_cad|||Dollaro canadese (CA\$)
+currency_chf|||Franco svizzero (CHF)
+currency_czk|||Corona ceca (Kč)
+currency_dkk|||Corona danese (kr)
+currency_eur|||Euro (€)
+currency_gbp|||Sterlina britannica (£)
+currency_huf|||Fiorino ungherese (Ft)
+currency_mxn|||Peso messicano (MX\$)
+currency_nok|||Corona norvegese (kr)
+currency_pln|||Zloty polacco (zł)
+currency_ron|||Leu rumeno (lei)
+currency_rub|||Rublo russo (₽)
+currency_sek|||Corona svedese (kr)
+currency_usd|||Dollaro USA (\$)
+current_password|||Password attuale
+current_password_is_incorrect|||La password attuale non è corretta
+current_status|||Stato attuale
+custom_duration|||Durata personalizzata
+cvv|||CVV
+dark_mode|||Modalità scura
+date_format|||Formato data
+days_left|||Giorni rimanenti
+de89_3704_0044_0532_0130_00|||DE89 3704 0044 0532 0130 00
+deAccountEnding|||DE** **** **** **{last4}
+delete|||Elimina
+delete_account|||Elimina account
+delete_account_warning|||Questa azione è irreversibile. Il tuo account e tutti i dati associati verranno 
+delete_address|||Elimina indirizzo
+delete_card|||Elimina carta
+delete_group|||Elimina gruppo
+delete_group_1|||Eliminare il gruppo?
+delete_my_account|||Elimina il mio account
+deleted_chats|||Chat eliminate
+deleted_chats_will_appear_here|||Le chat eliminate appariranno qui
+deleting|||Eliminazione...
+delivered|||Consegnato
+delivered_at_place_seller_delivers_to_named_destin|||Reso al Luogo - Il venditore consegna alla destinazione indicata
+delivered_at_place_unloaded_seller_delivers_and_un|||Reso al Luogo Scaricato - Il venditore consegna e scarica
+delivered_duty_paid_seller_pays_all_costs_to_desti|||Reso Sdoganato - Il venditore paga tutti i costi fino a destinazione
+delivery_address|||Indirizzo di consegna
+delivery_and_billing|||Indirizzi di consegna e fatturazione
+delivery_information|||INFORMAZIONI DI CONSEGNA
+delivery_information_1|||Informazioni di consegna
+delivery_overdue|||Consegna in ritardo
+delivery_time_unknown|||Tempo di consegna sconosciuto
+delivery_today|||Consegna oggi!
+delvioo_ensures_that_only_registered_and_officiall|||Delvioo garantisce che solo autisti registrati e ufficialmente verificati gestis
+delvioo_express|||Delvioo Express
+description_optional|||Descrizione (opzionale)
+deutsche_bank|||Deutsche Bank
+diese_zahlungsmethode_ist_nicht_mehr_gltignbitte_f|||Questo metodo di pagamento non è più valido.\nPer favore aggiungi una nuova cart
+disable|||Disabilita
+disable_2fa|||Disabilita 2FA
+disabled|||Disabilitato
+discover_amazing_products_and_follow_interesting_s|||Scopri prodotti straordinari e segui venditori interessanti per vederli qui!
+discover_fresh_products|||Scopri prodotti freschi e connettiti con venditori locali
+distance_unit|||Unità di distanza
+do_you_want_to_reject_this_purchase_request|||Vuoi rifiutare questa richiesta di acquisto?
+done|||Fatto
+dont_have_an_account|||Non hai un account? 
+download|||Scarica
+download_invoice|||Scarica fattura
+downloadedToPath|||Scaricato in {path}
+downloadingFile|||Download di {fileName}...
+driver|||Autista
+driver_auction|||Asta autisti
+driver_details_not_found_please_reselect_the_drive|||Dettagli autista non trovati. Seleziona nuovamente l\'autista o riprova.
+driver_invoice|||Fattura autista
+driver_location|||Posizione autista
+driver_location_not_available|||Posizione autista non disponibile
+driver_must_clean_and_sanitize_the_transport_vehic|||L\'autista deve pulire e igienizzare il veicolo di trasporto prima del carico
+driver_not_available|||Autista non disponibile
+driver_selected|||Autista selezionato
+drivers_submit_bids_choose_the_best_offer_and_save|||Gli autisti inviano offerte. Scegli la migliore e risparmia.
+drivers_will_appear_here_once_they_bid|||Gli autisti appariranno qui quando faranno offerte
+drivers_will_include_cleaning_fee_in_their_bid|||Gli autisti includeranno la tariffa di pulizia nella loro offerta
+due_date|||Data di scadenza
+edit|||Modifica
+edit_address|||Modifica indirizzo
+edit_profile|||Modifica profilo
+email|||Email
+email_address|||Indirizzo email
+email_is_required|||L\'email è obbligatoria
+email_sending_may_fail_in_dev_modenuse_this_code_f|||L\'invio email potrebbe non funzionare in modalità sviluppo.\nUsa questo codice 
+enable_biometric_login|||Abilita accesso biometrico
+enable_glass_dock_with_blur_effects|||Attiva dock di vetro con effetti sfocatura
+enabled|||Abilitato
+enter_a_new_8digit_code_to_replace_your_current_2f|||Inserisci un nuovo codice a 8 cifre per sostituire il tuo attuale codice 2FA
+enter_amount|||Inserisci importo...
+enter_an_8digit_code_that_you_want_to_use_for_2fa_|||Inserisci un codice a 8 cifre che vuoi usare per l\'autenticazione 2FA
+enter_auth_code|||Inserisci il tuo codice di autenticazione
+enter_city|||Inserisci città
+enter_code|||Inserisci codice a 8 cifre
+enter_country|||Inserisci paese
+enter_eight_digit_code|||Inserisci il codice a 8 cifre
+enter_email_address|||Inserisci il tuo indirizzo email
+enter_house_number|||Inserisci numero civico
+enter_minutes|||Inserisci minuti
+enter_multiplier|||Inserisci moltiplicatore...
+enter_password_to_confirm|||Inserisci la password per confermare
+enter_postal_code|||Inserisci codice postale
+enter_quantity|||Inserisci quantità...
+enter_six_digit_code|||Inserisci il codice a 6 cifre
+enter_street_and_city|||Inserisci almeno via e città
+enter_street_name|||Inserisci nome via
+enter_username_password|||Inserisci nome utente e password
+enter_your_2fa_code_to_continue|||Inserisci il codice 2FA per continuare
+enter_your_6digit_verification_code|||Inserisci il tuo codice di verifica a 6 cifre
+enter_your_8digit_verification_code|||Inserisci il tuo codice di verifica a 8 cifre
+enter_your_password|||Inserisci la tua password
+enter_your_registered_business_name|||Inserisci il nome della tua attività registrata
+errorAcceptingBid|||Errore nell\'accettare l\'offerta: {error}
+errorBlockingUser|||Errore nel bloccare l\'utente: {error}
+errorDeletingAddress|||Errore nell\'eliminare l\'indirizzo: {error}
+errorGeneric|||Errore: {error}
+errorLoadingAddresses|||Errore nel caricamento indirizzi: {error}
+errorLoadingFollowedUsers|||Errore nel caricamento degli utenti seguiti: Stato {statusCode}
+errorProcessingShippingPayment|||Errore nell\'elaborazione del pagamento spedizione: {error}
+errorSavingOrder|||Errore nel salvare l\'ordine: {error}
+errorSelectingAddress|||Errore nella selezione dell\'indirizzo: {error}
+errorUnblockingUser|||Errore nello sbloccare l\'utente: {error}
+error_closing_order|||Errore nella chiusura dell\'ordine
+error_deleting_payment_method|||Errore nell\'eliminare il metodo di pagamento
+error_downloading_invoice|||Errore nel download della fattura
+error_loading_data|||Errore nel caricamento dei dati
+error_loading_orders|||Errore nel caricamento degli ordini
+error_loading_payment_methods|||Errore nel caricamento dei metodi di pagamento
+error_selecting_image|||Errore nella selezione dell\'immagine
+error_selecting_pdf_file|||Errore nella selezione del file PDF
+error_sending_message|||Errore nell\'invio del messaggio
+error_starting_auction|||Errore nell\'avvio dell\'asta
+error_title|||Errore
+error_updating_default|||Errore nell\'aggiornamento del predefinito
+error_updating_favorites|||Errore nell\'aggiornamento dei preferiti
+error_updating_quantity|||Errore nell\'aggiornamento della quantità
+estimated_delivery|||Consegna stimata
+europeanFormatDatePreview|||Europeo (gg/MM/aaaa) - {preview}
+every_1_hour|||Ogni ora
+every_3_hours|||Ogni 3 ore
+every_6_hours|||Ogni 6 ore
+everywhere|||Ovunque
+ex_works_seller_makes_goods_available_at_their_pre|||Franco Fabbrica - Il venditore rende disponibili le merci presso i propri locali
+expiresDate|||Scade {month}/{year}
+expiry|||Scadenza
+expiry_date|||Data di scadenza
+failed|||Fallito
+failedToDownloadFile|||Download del file fallito ({statusCode})
+failedToFetchLocation|||Impossibile recuperare la posizione: {error}
+failedToSendMessage|||Impossibile inviare il messaggio: {error}
+failedToUpdateProfile|||Impossibile aggiornare il profilo: {error}
+failedToUpdateSettingWithError|||Impossibile aggiornare l\'impostazione: {error}
+failed_to_clear_cart|||Impossibile svuotare il carrello
+failed_to_delete_account|||Impossibile eliminare l\'account
+failed_to_load_blocked_users|||Impossibile caricare gli utenti bloccati
+failed_to_load_products|||Impossibile caricare i prodotti
+failed_to_remove_item|||Impossibile rimuovere l\'articolo
+failed_to_send_file|||Impossibile inviare il file
+failed_to_submit_verification|||Impossibile inviare la verifica
+failed_to_unblock_user|||Impossibile sbloccare l\'utente
+failed_to_unfollow_user|||Impossibile smettere di seguire l\'utente
+failed_to_update_notification_settings|||Impossibile aggiornare le impostazioni di notifica
+failed_to_update_quantity|||Impossibile aggiornare la quantità
+failed_to_update_setting|||Impossibile aggiornare l\'impostazione
+failed_to_verify_biometric_authentication|||Impossibile verificare l\'autenticazione biometrica
+failed_to_verify_business_eligibility|||Impossibile verificare l\'idoneità aziendale
+faq_and_support|||FAQ e supporto
+fast_secure|||Veloce e sicuro
+favorite_products|||Prodotti preferiti
+favorites|||Preferiti
+feedback_form_coming_soon|||Modulo feedback in arrivo
+fehler_beim_bezahlen_bitte_versuche_es_erneut|||Errore nel pagamento. Riprova.
+fill_all_fields|||Compila tutti i campi obbligatori
+fill_all_payment_fields|||Compila tutti i campi di pagamento
+finance|||Finanza
+find_users|||Cerca utenti
+fingerprint_or_face_id|||Impronta digitale o Face ID
+first_name|||Nome
+follow|||Segui
+follow_sellers_and_users_to_see_them_here|||Segui venditori e utenti per vederli qui
+forgot_password|||Password dimenticata?
+forgot_password_subtitle|||Inserisci il tuo indirizzo email e ti invieremo un link per reimpostare la passw
+free_alongside_ship_seller_delivers_alongside_vess|||Franco Lungo Bordo - Il venditore consegna lungo la nave
+free_carrier_seller_delivers_to_carrier_at_named_p|||Franco Vettore - Il venditore consegna al vettore nel luogo indicato
+free_on_board_seller_delivers_goods_on_board_vesse|||Franco a Bordo - Il venditore consegna le merci a bordo della nave
+general_help|||Aiuto generale
+generate_new_2fa_code|||Genera nuovo codice 2FA
+generate_new_code|||Genera nuovo codice
+get_competitive_delivery_offers|||Ottieni offerte di consegna competitive
+get_help|||Ottieni aiuto e supporto
+get_in_touch_directly|||Contatta direttamente
+google_account|||Account Google
+google_maps|||Google Maps
+google_pay|||Google Pay
+got_it|||Ho capito
+gram|||Grammo
+group_deleted_successfully|||Gruppo eliminato con successo
+group_name|||Nome del gruppo (es. Azienda S.r.l.)
+groups|||Gruppi
+hello_how_can_i_assist_you_with_your_business_need|||Ciao! Come posso aiutarti con le tue esigenze aziendali oggi?
+help_center|||Centro assistenza
+help_center_coming_soon|||Centro assistenza in arrivo
+hey_cully_greeting|||Ciao! Sono Cully, il tuo assistente AI. Come posso aiutarti oggi?
+high_price|||Prezzo alto
+highest_price|||Prezzo più alto
+history|||Cronologia
+home|||Home
+home_subtitle|||Scopri prodotti freschi e connettiti con venditori locali
+house_number|||N°
+house_number_1|||Numero civico
+how_it_works|||Come funziona
+how_to_sign_in|||Come vuoi accedere?
+how_we_handle_data|||Come gestiamo i tuoi dati
+how_would_you_like_to_log_in|||Come vuoi effettuare l\'accesso?
+iban|||IBAN
+iban_copied|||IBAN copiato negli appunti
+iban_copied_1|||IBAN copiato
+iban_not_available|||IBAN non disponibile
+image_decode_error|||Errore decodifica immagine
+in_stock|||Disponibile
+includesOverLimitFee|||Include {fee} di commissione oltre il limite
+incotermLabel|||Incoterm: {incoterm}
+information|||Informazione
+ingredients_origin|||INGREDIENTI E ORIGINE
+instant_payment|||PAGAMENTO ISTANTANEO
+instant_payment_processing|||Elaborazione pagamento istantanea
+interface|||Interfaccia
+invalid_code|||Codice non valido
+invalid_date|||Data non valida
+invalid_date_format|||Formato data non valido
+invalid_email_address|||Indirizzo email non valido
+invalid_email_or_password|||Email o password non validi
+invite_code|||CODICE INVITO
+invite_code_1|||Codice invito
+invoiceDueWithinDays|||La tua fattura scade entro {days} giorni. Riceverai una fattura dettagliata via 
+invoiceSavedTo|||Fattura salvata in: {path}
+invoice_for_product_purchase|||Fattura per acquisto prodotto
+invoice_for_shippingdelivery_service|||Fattura per servizio di spedizione/consegna
+invoice_managementnn_view_all_invoices_in_your_acc|||Gestione fatture:\n\n• Visualizza tutte le fatture nella sezione **Account → Fat
+invoice_saved_no_app_to_open_pdf_files|||Fattura salvata. Nessuna app per aprire file PDF.
+invoice_sent_to_email|||Fattura inviata alla tua email
+invoice_total|||Totale fattura
+issues_test|||Test problemi
+item_removed_from_cart|||Articolo rimosso dal carrello!
+item_total|||Totale articolo
+itemsCount|||Articoli ({count})
+john_doe|||Mario Rossi
+join_group|||Unisciti al gruppo
+joining|||Unione in corso...
+just_now|||Proprio ora
+keep_order|||Mantieni ordine
+kilogram|||Chilogrammo
+kilograms_kg|||Chilogrammi (kg)
+kilometers|||chilometri
+language|||Lingua
+language_de|||Tedesco
+language_en|||Inglese
+language_es|||Spagnolo
+language_fr|||Francese
+language_it|||Italiano
+language_pt|||Portoghese
+language_ru|||Russo
+last_login|||Ultimo accesso
+last_name|||Cognome
+last_seen|||Ultimo accesso
+late_payment_consequences|||Conseguenze del ritardo di pagamento
+lawsuit_filed|||Causa legale presentata
+leave_group|||Lascia gruppo
+leave_group_1|||Lasciare il gruppo?
+left_group_successfully|||Hai lasciato il gruppo con successo
+legal_action|||Azione legale
+legal_help|||Legale e aiuto
+less_than_24_hours_remaining|||Meno di 24 ore rimanenti
+liter|||Litro
+live_location|||Posizione in tempo reale
+loading_auction|||Caricamento asta...
+loading_driver_location|||Caricamento posizione autista...
+loading_image|||Caricamento immagine...
+loading_product_details|||Caricamento dettagli prodotto...
+loading_products|||Caricamento prodotti incredibili...
+loading_your_orders|||Caricamento dei tuoi ordini...
+localization|||Localizzazione
+location|||Posizione
+location_not_available|||Posizione non disponibile
+location_not_specified|||Posizione non specificata
+location_private|||Posizione privata
+log_out|||Esci
+log_out_confirm|||Vuoi davvero uscire?
+login_cancelled|||Accesso annullato - Non sei connesso
+login_credentials|||Credenziali di accesso
+login_failed|||Accesso fallito
+logistics_insurancenn_all_cargo_is_fully_insured_d|||Logistica e Assicurazione:\n\n🚚 Tutto il carico è **completamente assicurato** (
+low_price|||Prezzo basso
+main_address|||INDIRIZZO PRINCIPALE
+main_address_updated|||Indirizzo principale aggiornato con successo
+make_admin|||Rendi admin
+make_member|||Rendi membro
+make_this_your_default_delivery_address|||Imposta come indirizzo di consegna predefinito
+manage_addresses|||Gestisci indirizzi
+manage_your_payments|||Gestisci i tuoi pagamenti
+manage_your_teams|||Gestisci i tuoi team
+manual_login|||Accesso manuale
+map_loading_failed|||Caricamento mappa fallito
+maximumFilesAllowed|||Massimo {max} file consentiti
+measurement_interval|||Intervallo di misurazione
+member|||Membro
+member_removed_successfully|||Membro rimosso con successo
+member_since|||Membro dal
+members_need_your_approval_before_ordering|||I membri devono avere la tua approvazione prima di ordinare
+message|||Messaggio
+message_cully|||Scrivi a Cully
+message_options|||Opzioni messaggio
+messages|||Messaggi
+miles|||miglia
+milligram|||Milligrammo
+milliliter|||Millilitro
+modify_address_details|||Modifica dettagli indirizzo
+money_will_be_transferred_to_sellers_within_2448_h|||Il denaro verrà trasferito ai venditori entro 24-48 ore.
+monthly_statistics|||Statistiche mensili
+motion_dock|||Motion Dock
+motion_dock_disabled|||Motion dock disabilitato
+motion_dock_enabled|||Motion dock abilitato
+multiplier_mode|||Modalità moltiplicatore
+my_account|||Il mio account
+my_addresses|||I miei indirizzi
+my_orders|||I miei ordini
+name|||Nome
+native_tab_bar_ios_26|||Barra tab nativa (iOS 26)
+netPaymentTerms|||Termini di pagamento Net {days}
+net_30|||Net 30
+net_3060_credit|||Credito Net 30/60
+net_60|||Net 60
+networkError|||Errore di rete: {error}
+network_error_please_check_your_internet_connectio|||Errore di rete. Controlla la tua connessione internet.
+new_password|||Nuova password
+new_password_must_be_different_from_current_passwo|||La nuova password deve essere diversa dalla password attuale
+newest_first|||Più recente
+no|||No
+no_address|||Nessun indirizzo
+no_address_provided|||Nessun indirizzo fornito
+no_addresses_available_please_add_one|||Nessun indirizzo disponibile. Aggiungine uno.
+no_addresses_found|||Nessun indirizzo trovato
+no_biometric_enrolled|||Nessun dato biometrico registrato su questo dispositivo
+no_blocked_users|||Nessun utente bloccato
+no_cleaning_verification_needed|||Nessuna verifica di pulizia necessaria
+no_code|||Nessun codice
+no_conversations|||Nessuna conversazione
+no_date|||Nessuna data
+no_deleted_chats|||Nessuna chat eliminata
+no_driver_was_selected|||Nessun autista selezionato
+no_favorite_products_yet|||Nessun prodotto preferito ancora
+no_favorites_yet|||Nessun preferito ancora
+no_groups_yet|||Nessun gruppo ancora
+no_internet_connection|||Nessuna connessione internet
+no_messages_yet|||Nessun messaggio ancora
+no_orders|||Nessun ordine
+no_orders_yet|||Nessun ordine ancora
+no_payment_methods|||Nessun metodo di pagamento
+no_pending_requests|||Nessuna richiesta in sospeso
+no_phone_number|||Nessun numero di telefono
+no_photo_requests_yet|||Nessuna richiesta foto ancora
+no_products_available_from_this_seller|||Nessun prodotto disponibile da questo venditore.
+no_products_found|||Nessun prodotto trovato
+no_products_subtitle|||Prova a modificare i filtri o torna più tardi ✨
+no_reviews_yet|||Nessuna recensione ancora
+no_saved_payment_methods|||Nessun metodo di pagamento salvato trovato
+no_stripe_customer|||Nessun cliente Stripe
+no_such_paymentmethod|||Metodo di pagamento inesistente
+no_users_found|||Nessun utente trovato
+not_available|||Non disponibile
+not_available_1|||Non disponibile
+not_following_anyone_yet|||Non segui ancora nessuno
+not_set|||Non impostato
+not_specified|||Non specificato
+notificationsDisabledFor|||Notifiche disabilitate per {seller}
+notifiedWhenSellerAdds|||Verrai avvisato quando {seller} aggiungerà nuovi prodotti
+now|||Ora
+number_format|||Formato numerico
+number_format_de|||Tedesco (1.234,56)
+number_format_en|||Inglese (1,234.56)
+nutrition_facts|||VALORI NUTRIZIONALI
+offline|||Offline
+ok|||OK
+online|||Online
+open|||Apri
+open_settings|||Apri impostazioni
+optional_cleaning_certificate_available|||Certificato di pulizia opzionale disponibile
+or|||o
+orderIdsCount|||ID ordini ({count}):
+orderItemsCount|||Articoli dell\'ordine ({count})
+order_approval_workflownn1_orders_created_by_team_|||Flusso di approvazione ordini:\n\n1. Gli ordini creati dai membri del team sono 
+order_cancelled|||Ordine annullato
+order_closed_success|||Ordine chiuso con successo
+order_closing|||Chiusura ordine
+order_details|||Dettagli ordine
+order_has_been_delivered|||L\'ordine è stato consegnato
+order_history|||Cronologia ordini
+order_id|||ID ordine
+order_ids|||ID ordini
+order_ids_1|||ID ordini:
+order_placed_success|||Ordine effettuato con successo!
+order_received_success|||Ordine contrassegnato come ricevuto con successo!
+order_rejected|||Ordine rifiutato
+order_summary|||Riepilogo ordine
+order_total|||Totale ordine
+order_value|||Valore ordine
+order_will_be_automatically_cancelled_if_payment_i|||L\'ordine verrà automaticamente annullato se il pagamento non viene ricevuto ent
+orders|||Ordini
+orders_count|||Numero ordini
+orders_created|||Ordini creati!
+orders_placed_successfully|||Ordini effettuati con successo!
+orders_updated|||Ordini aggiornati:
+orders_will_appear_here|||I tuoi ordini appariranno qui dopo aver effettuato un acquisto
+ounce|||Oncia
+our_team_will_review_your_application_and_notify_y|||Il nostro team esaminerà la tua domanda e ti notificherà via email una volta app
+out_of_stock|||Esaurito
+out_of_stock_1|||Esaurito
+out_of_stock_2|||Esaurito
+overlay_test|||Test overlay
+owner|||Proprietario
+ownership_transferred_successfully|||Proprietà trasferita con successo
+paid|||Pagato
+password|||Password
+password_changed_successfully|||Password cambiata con successo!
+password_is_required|||La password è obbligatoria
+password_is_too_weak|||La password è troppo debole
+password_is_too_weak_please_choose_a_stronger_pass|||La password è troppo debole. Scegli una password più sicura.
+password_min_length|||La password deve avere almeno 6 caratteri
+password_must_be_at_least_3_characters_long|||La password deve essere di almeno 3 caratteri
+password_must_be_at_least_6_characters_long|||La password deve essere di almeno 6 caratteri
+password_reset_success|||Password reimpostata con successo! Ora puoi accedere.
+password_reset_will_be_available_soon|||Il ripristino password sarà disponibile a breve
+passwords_do_not_match|||Le password non corrispondono
+payAmount|||Paga {amount}
+payShippingAmount|||Paga spedizione {amount}
+pay_now|||Paga ora
+pay_shipping_cost|||Paga costi di spedizione
+pay_within_30_days_business_only|||Paga entro 30 giorni • Solo aziende
+pay_within_30_days_from_invoice_date|||Paga entro 30 giorni dalla data della fattura
+pay_within_60_days_business_only|||Paga entro 60 giorni • Solo aziende
+pay_within_60_days_from_invoice_date|||Paga entro 60 giorni dalla data della fattura
+payment|||Pagamento
+paymentCancelledOrFailed|||Pagamento annullato o fallito: {error}
+paymentMethodSelected|||Metodo di pagamento selezionato: {title}
+payment_deadline_expired|||Scadenza pagamento superata
+payment_deadline_has_passed_this_order_will_be_clo|||La scadenza del pagamento è passata. Questo ordine verrà chiuso automaticamente.
+payment_due|||Pagamento dovuto
+payment_failed|||Pagamento fallito
+payment_failed_1|||Pagamento fallito
+payment_id|||ID pagamento
+payment_id_copied_to_clipboard|||ID pagamento copiato negli appunti
+payment_instructions|||Istruzioni di pagamento
+payment_method|||Metodo di pagamento
+payment_method_deletion_not_yet_implemented|||Eliminazione metodo di pagamento non ancora implementata
+payment_method_saved|||Metodo di pagamento salvato con successo!
+payment_methods|||Metodi di pagamento
+payment_received|||Pagamento ricevuto ✓
+payment_reminder|||Promemoria pagamento
+payment_required|||Pagamento richiesto
+payment_successful|||Pagamento riuscito
+payment_successful_1|||Pagamento riuscito!
+payment_successful_order_confirmed|||Pagamento riuscito! Ordine confermato.
+payment_terms|||Termini di pagamento
+payment_terms_30_days|||Termini di pagamento (30 giorni)
+payment_terms_60_days|||Termini di pagamento (60 giorni)
+payment_terms_b2b|||TERMINI DI PAGAMENTO (B2B)
+payments_secured_by_stripe|||Pagamenti protetti da Stripe
+pdf|||PDF
+pdf_document|||Documento PDF
+pending|||In attesa
+permanently_delete|||Elimina definitivamente il tuo account
+personal_information|||Informazioni personali
+phone|||Telefono
+phone_number|||Numero di telefono
+phone_number_1|||Numero di telefono
+photo|||Foto
+photoRequestSent|||Richiesta foto ({interval}) inviata all\'autista con successo!
+photo_interval|||Intervallo foto
+photo_requests|||Richieste foto
+photos_from_driver|||Foto dall\'autista
+photos_received|||Foto ricevute
+picked_up|||Ritirato
+pickup_complete|||Ritiro completato
+pickup_location|||LUOGO DI RITIRO
+piece|||Pezzo
+platform_fee_65|||Commissione piattaforma (6,5%)
+please_authenticate_to_verify_your_identity|||Autenticati per verificare la tua identità
+please_confirm_your_new_password|||Conferma la tua nuova password
+please_enable_storage_permissions_and_try_download|||Abilita i permessi di archiviazione e riprova il download.
+please_enter_a_group_name|||Inserisci un nome per il gruppo
+please_enter_a_message|||Inserisci un messaggio
+please_enter_a_valid_8digit_code|||Inserisci un codice valido a 8 cifre
+please_enter_a_valid_duration_between_5_and_180_mi|||Inserisci una durata valida tra 5 e 180 minuti
+please_enter_an_invite_code|||Inserisci un codice invito
+please_enter_your_business_email|||Inserisci la tua email aziendale
+please_enter_your_business_name|||Inserisci il nome della tua azienda
+please_enter_your_business_phone|||Inserisci il telefono aziendale
+please_enter_your_city|||Inserisci la tua città
+please_enter_your_country|||Inserisci il tuo paese
+please_enter_your_house_number|||Inserisci il tuo numero civico
+please_enter_your_postal_code|||Inserisci il tuo codice postale
+please_enter_your_street_address|||Inserisci il tuo indirizzo
+please_enter_your_street_name|||Inserisci il nome della via
+please_enter_your_tax_id_ein|||Inserisci il tuo codice fiscale / P.IVA
+please_fill_in_all_fields|||Compila tutti i campi
+please_fill_in_all_fields_correctly|||Compila correttamente tutti i campi
+please_login_again|||Accedi di nuovo
+please_login_first|||Accedi prima
+please_login_to_access_feature|||Accedi per accedere a questa funzione
+please_login_to_chat|||Accedi per chattare con i venditori
+please_login_to_follow|||Accedi per seguire i venditori
+please_login_to_view_cart|||Accedi per visualizzare il carrello
+please_select_a_card|||Seleziona una carta
+please_select_a_saved_card|||Seleziona una carta salvata
+please_select_a_sepa_payment_method|||Seleziona un metodo di pagamento SEPA
+please_select_a_wire_transfer_method|||Seleziona un metodo di bonifico bancario
+please_select_an_ach_payment_method|||Seleziona un metodo di pagamento ACH
+please_select_delivery_address_for_all_items|||Seleziona l\'indirizzo di consegna per tutti gli articoli
+please_send_a_wire_transfer_for_the_exact_amount_t|||Invia un bonifico bancario per l\'importo esatto al conto indicato. Il tuo ordin
+please_send_photos_of_the_products|||Invia foto dei prodotti
+please_sign_in|||Accedi
+please_transfer_the_exact_amount_to_the_iban_below|||Trasferisci l\'importo esatto all\'IBAN indicato. Il tuo ordine verrà confermato
+please_transfer_the_exact_amount_via_ach_to_the_ac|||Trasferisci l\'importo esatto tramite ACH al conto indicato. Il tuo ordine verrà
+please_verify_your_identity_with_your_2fa_code|||Verifica la tua identità con il codice 2FA
+please_wait_while_we_process_your_payment|||Attendi mentre elaboriamo il tuo pagamento
+popup_menu_button|||Pulsante menu popup
+position_the_qr_code_within_the_frame_to_complete_|||Posiziona il codice QR all\'interno della cornice per completare il ritiro
+postal_code|||Codice postale
+pound|||Libbra
+pounds_lbs|||Libbre (lbs)
+price|||Prezzo
+pricePerUnit|||Prezzo per unità: {price}
+price_1|||Prezzo ↑
+price_2|||Prezzo ↓
+privacy_policy|||Politica sulla privacy
+privacy_security|||Privacy e sicurezza
+proceed_to_checkout|||Procedi al checkout
+proceed_to_checkout_1|||Procedi al checkout
+processing|||In elaborazione
+processing_payment|||Elaborazione pagamento...
+processing_time|||Tempo di elaborazione
+product_details|||DETTAGLI PRODOTTO
+product_info|||Info prodotto
+product_information|||INFORMAZIONI PRODOTTO
+product_invoice|||Fattura prodotto
+productsCount|||Prodotti ({count})
+products_0|||Prodotti (0)
+profile|||Profilo
+profile_updated_success|||Profilo aggiornato con successo
+qtyWithCount|||Qtà: {quantity}
+quantity|||Quantità
+quantity_mode|||Modalità quantità
+quick_and_secure_messaging|||Messaggistica rapida e sicura
+range_5_180_minutes_3_hours_max|||Intervallo: 5 - 180 minuti (max 3 ore)
+rate_driver|||Valuta autista
+rate_seller|||Valuta venditore
+rate_your_experience|||Valuta la tua esperienza
+rate_your_trip|||Valuta il tuo viaggio
+rating|||Valutazione
+ready|||Pronto
+ready_for_pickup|||Pronto per il ritiro
+reason_optional|||Motivo (opzionale)
+refresh|||Aggiorna
+refresh_location|||Aggiorna posizione
+registration_failed|||Registrazione fallita
+reject|||Rifiuta
+reject_request|||Rifiuta richiesta
+rejected|||Rifiutato ❌
+remove|||Rimuovi
+remove_from_group|||Rimuovi dal gruppo
+remove_this_address_permanently|||Rimuovi questo indirizzo permanentemente
+remove_this_payment_method|||Rimuovi questo metodo di pagamento
+removed_from_favorites|||Rimosso dai preferiti
+request_information|||Richiedi informazioni
+request_photos|||Richiedi foto
+request_temperature|||Richiedi temperatura
+request_timeout_server_took_too_long_to_respond|||Timeout richiesta - il server ha impiegato troppo tempo a rispondere
+require_purchase_approval|||Richiedi approvazione acquisto
+require_vehicle_cleaning_before_transport|||Richiedi pulizia del veicolo prima del trasporto
+required_for_this_delivery|||Richiesto per questa consegna
+resend_code|||Reinvia codice
+reset|||Ripristina
+reset_password|||Reimposta password
+reset_password_subtitle|||Inserisci il codice a 6 cifre inviato alla tua email e scegli una nuova password
+reset_settings|||Ripristina impostazioni
+reset_to_defaults|||Ripristina valori predefiniti
+resetting|||Reimpostazione...
+restore_all_settings_to_default_values|||Ripristina tutte le impostazioni ai valori predefiniti
+retry|||Riprova
+review_submitted|||Recensione inviata
+review_time_2448_hours|||Tempo di revisione: 24-48 ore
+role_updated_to_admin|||Ruolo aggiornato ad Admin
+role_updated_to_member|||Ruolo aggiornato a Membro
+routing_number|||Numero di routing
+routing_number_copied|||Numero di routing copiato negli appunti
+routing_number_copied_1|||Numero di routing copiato
+routing_number_swiftbic|||Numero di routing (SWIFT/BIC)
+same_day_delivery|||Consegna in giornata
+same_or_next_business_day|||Stesso giorno o giorno lavorativo successivo
+save|||Salva
+save_changes|||Salva modifiche
+save_code|||Salva codice
+save_payment_method|||Salva metodo di pagamento
+saved_cards|||CARTE SALVATE
+saved_payment_methods|||METODI DI PAGAMENTO SALVATI
+saved_payment_methods_1|||Metodi di pagamento salvati
+saving|||Salvataggio...
+scan_qr_code|||Scansiona codice QR
+search_categories|||Cerca categorie
+search_for_users|||Cerca utenti
+search_products|||Cerca prodotti...
+search_users|||Cerca utenti...
+secure_payment|||Pagamento sicuro
+security_verification|||Verifica di sicurezza
+segmented_control|||Controllo segmentato
+select_a_driver|||Seleziona un autista
+select_a_payment_method|||Seleziona un metodo di pagamento
+select_address|||Seleziona indirizzo
+select_birth_date|||Seleziona data di nascita
+select_birthdate|||Seleziona data di nascita
+select_birthdate_1|||Seleziona data di nascita
+select_card|||Seleziona carta
+select_country|||Seleziona paese
+select_country_code|||Seleziona prefisso nazionale
+select_currency|||Seleziona valuta
+select_delivery_address|||Seleziona un indirizzo di consegna per tutti gli articoli
+select_delivery_address_1|||Seleziona indirizzo di consegna
+select_language|||Seleziona lingua
+select_month|||Seleziona mese
+select_saved_card|||Seleziona carta salvata
+select_unit|||SELEZIONA UNITÀ
+seller|||Venditore
+seller_not_available|||Venditore non disponibile
+seller_pays|||Il venditore paga
+seller_pays_shipping|||Il venditore paga la spedizione
+seller_profile|||Profilo venditore
+seller_receives|||Il venditore riceve
+send_feedback|||Invia feedback
+send_image|||Invia immagine
+send_message|||Invia messaggio
+send_pdf|||Invia PDF
+send_request|||Invia richiesta
+send_reset_link|||Invia link
+send_the_exact_amount_via_wire_transfer_to_the_acc|||Invia l\'importo esatto tramite bonifico bancario al conto sopra indicato. I bon
+send_the_first_message|||Invia il primo messaggio!
+send_wire_transfer_to_complete_payment|||Invia bonifico bancario per completare il pagamento
+sending|||Invio...
+sepaEndingIn|||SEPA •••• {last4}
+sepa_direct_debit|||Addebito diretto SEPA
+sepa_direct_debit_transfers_are_processed_within_1|||I bonifici SEPA vengono elaborati entro 1-3 giorni lavorativi. Il tuo ordine ver
+session_expired|||Sessione scaduta. Accedi di nuovo.
+set_as_default|||Imposta come predefinito
+set_as_main|||Imposta come principale
+set_as_main_address|||Imposta come indirizzo principale
+set_as_main_address_1|||Imposta come indirizzo principale
+set_default_not_yet_implemented|||Imposta predefinito non ancora implementato
+setting_updated_successfully|||Impostazione aggiornata con successo
+settings|||Impostazioni
+settings_error|||Errore nell\'aggiornamento delle impostazioni
+settings_reset_defaults|||Impostazioni ripristinate ai valori predefiniti
+settings_updated|||Impostazioni aggiornate con successo
+setup_2fa|||Configura 2FA
+share_your_feedback_about_this_order|||Condividi il tuo feedback su questo ordine
+share_your_thoughts|||Condividi i tuoi pensieri
+shipped|||Spedito
+shipped_date|||Data di spedizione
+shippingCostAmount|||Costi di spedizione: \${amount}
+shipping_cost|||Costi di spedizione
+shipping_method|||Metodo di spedizione
+shipping_payment_successful_confirming_driver|||Pagamento spedizione riuscito! Confermando l\'autista...
+shipping_terms|||Termini di spedizione
+shipping_will_be_calculated_and_added_at_final_che|||La spedizione verrà calcolata e aggiunta al checkout finale
+shopping_cart|||Carrello
+show_awaiting_only|||Mostra solo in attesa
+show_this_code_to_the_driver|||Mostra questo codice all\'autista
+signInFailedWithError|||Accesso fallito: {error}
+sign_in|||Accedi
+sign_in_failed|||Accesso fallito
+sign_in_subtitle|||Accedi al tuo account per continuare
+sign_in_to_view_orders|||Per visualizzare i tuoi ordini, devi prima accedere.
+sign_in_with_password|||Accedi con nome utente e password
+sign_out|||Esci
+signed_in_success|||Accesso effettuato con successo!
+signed_in_with_google|||Accesso con Google effettuato con successo!
+signing_in|||Accesso...
+sort_az|||A → Z
+sort_by|||Ordina per:
+sort_orders|||Ordina ordini
+sort_za|||Z → A
+standard_delivery_terms|||Termini di consegna standard
+standard_shipping|||Spedizione standard
+start_a_new_chat_to_get_started|||Inizia una nuova chat per cominciare
+start_auction|||Avvia asta
+start_following_users_to_see_their_profiles_here|||Inizia a seguire utenti per vedere i loro profili qui
+start_new_auction|||Avvia nuova asta
+start_typing_to_find_people|||Inizia a digitare per trovare persone
+status_accepted|||ACCETTATO
+status_awaiting_approval|||IN ATTESA DI APPROVAZIONE
+status_awaiting_payment|||IN ATTESA DI PAGAMENTO
+status_cancelled|||ANNULLATO
+status_confirmed|||CONFERMATO
+status_delivered|||CONSEGNATO
+status_payment_failed|||PAGAMENTO FALLITO
+status_payment_successful|||PAGAMENTO RIUSCITO
+status_processing|||IN ELABORAZIONE
+status_ready_for_pickup|||PRONTO PER IL RITIRO
+status_refunded|||RIMBORSATO
+status_shipped|||SPEDITO
+storage_permission_needed|||Permesso di archiviazione necessario
+street|||Via
+stripePaymentError|||Errore pagamento Stripe: {statusCode}
+submit|||Invia
+submit_continue|||Invia e continua
+subtotal|||Subtotale
+success|||Successo
+successfully_joined|||Iscrizione riuscita! 🎉
+successfully_logged_in|||Accesso effettuato con successo!
+support|||Supporto
+swift_code_copied|||Codice SWIFT copiato
+swiftbic_code|||Codice SWIFT/BIC
+sync_complete|||Sincronizzazione completata
+sync_failed|||Sincronizzazione fallita
+sync_with_backend|||Sincronizza con il backend
+synchronize_settings_across_devices|||Sincronizza le impostazioni tra dispositivi
+syncing_with_stripe|||Sincronizzazione con Stripe...
+system|||Sistema
+system_default|||Predefinito di sistema
+tab_bar|||Barra delle tab
+tap_the_heart_icon_on_products_to_add_them_to_your|||Tocca l\'icona del cuore sui prodotti per aggiungerli ai preferiti
+tap_to_call|||Tocca per chiamare
+tap_to_view|||Tocca per visualizzare
+tax_id_ein|||Codice fiscale / P.IVA
+temperatureRequestSent|||Richiesta temperatura ({interval}) inviata all\'autista con successo!
+temperature_recorded|||Temperatura registrata
+terms_and_conditions|||Termini e condizioni
+terms_conditions|||Termini e condizioni
+test_biometric_authentication_for_cultioo|||Testa l\'autenticazione biometrica per Cultioo
+test_now|||Testa ora
+testing_api_connection|||Test connessione API...
+text_size|||Dimensione testo
+text_size_large|||Grande
+text_size_medium|||Medio
+text_size_small|||Piccolo
+thank_you_for_your_feedback|||Grazie per il tuo feedback!
+theDriverHasntSharedLocation|||L\'autista non ha ancora condiviso la sua posizione
+the_auction_ended_without_any_driver_being_assigne|||L\'asta si è conclusa senza che nessun autista venisse assegnato. Puoi avviare u
+the_seller_will_pay_for_the_shipping_costs_accordi|||Il venditore pagherà i costi di spedizione secondo l\'accordo Incoterm.
+theme|||Tema
+theme_dark|||Scuro
+theme_lang_currency|||Tema, lingua, valuta, dimensione testo
+theme_light|||Chiaro
+theme_system|||Impostazioni telefono
+thisQrCodeDoesntMatch|||Questo codice QR non corrisponde all\'ordine
+this_action_cannot_be_undone_the_order_will_be_per|||Questa azione non può essere annullata. L\'ordine verrà chiuso permanentemente.
+this_email_address_is_already_registered|||Questo indirizzo email è già registrato
+this_order_has_been_cancelled|||Questo ordine è stato annullato.
+this_order_has_been_rejected_and_will_not_be_proce|||Questo ordine è stato rifiutato e non verrà elaborato.
+this_seller_prefers_to_be_contacted_through_the_pl|||Questo venditore preferisce essere contattato tramite il sistema di messaggistic
+this_will_be_your_default_delivery_address|||Questo sarà il tuo indirizzo di consegna predefinito
+this_will_permanently_delete_the_group_for_all_mem|||Questo eliminerà permanentemente il gruppo per tutti i membri.
+time_remaining_to_pay|||Tempo rimanente per il pagamento
+toUnit|||A: {unit}
+to_download_files_this_app_needs_permission_to_acc|||Per scaricare file, questa app necessita del permesso di accedere all\'archiviaz
+to_view_your_messages_you_need_to_sign_in_first|||Per visualizzare i tuoi messaggi, devi prima accedere.
+today|||Oggi
+todayAtTime|||Oggi, {time}
+ton|||Tonnellata
+total|||Totale
+totalWithAmount|||Totale: {amount}
+total_amount|||Importo totale
+total_checked|||Totale controllato:
+total_paid|||Totale pagato
+total_spent|||Totale speso
+total_statistics|||Statistiche totali
+touch_sensor_test|||Tocca il sensore o guarda la fotocamera per testare l\'autenticazione biometrica
+tracking_information|||Informazioni di tracciamento
+tracking_number|||Numero di tracciamento
+trade_details|||DETTAGLI COMMERCIALI
+transfer_funds_to_complete_payment|||Trasferisci fondi per completare il pagamento
+transfer_funds_via_ach_to_complete_your_payment|||Trasferisci fondi tramite ACH per completare il pagamento
+transfer_ownership|||Trasferisci proprietà
+transfer_ownership_1|||Trasferire la proprietà?
+transfer_the_exact_amount_via_ach_to_the_virtual_a|||Trasferisci l\'importo esatto tramite ACH al conto virtuale sopra indicato. Il t
+transfer_to_this_iban|||Trasferisci a questo IBAN
+transit|||In transito
+try_a_different_search|||Prova una ricerca diversa
+try_again|||Riprova
+try_different_search|||Prova una ricerca diversa o sfoglia le categorie
+two_factor_auth|||Autenticazione a due fattori
+type_address|||Digita indirizzo...
+type_message|||Scrivi un messaggio...
+type_your_message|||Scrivi il tuo messaggio...
+ukFormatDatePreview|||Formato UK (gg-MM-aaaa) - {preview}
+unblock|||Sblocca
+unblock_user|||Sblocca utente
+unit|||Unità
+unit_converter|||Convertitore unità
+unit_converter_1|||CONVERTITORE UNITÀ
+unknown_date|||Data sconosciuta
+unknown_item|||Articolo sconosciuto
+unknown_product|||Prodotto sconosciuto
+unknown_seller|||Venditore sconosciuto
+unknown_user|||Utente sconosciuto
+update_address|||Aggiorna indirizzo
+update_code|||Aggiorna codice
+update_your_password|||Aggiorna la tua password
+updatedTime|||Aggiornato {time}
+use_2fa_code|||Usa codice 2FA
+use_biometric|||Usa biometria
+use_biometric_authentication|||Usa autenticazione biometrica
+use_biometric_authentication_1|||Usa autenticazione biometrica
+use_dark_theme_throughout_the_app|||Usa il tema scuro in tutta l\'app
+use_password|||Usa password
+use_platform_messaging|||Usa messaggistica della piattaforma
+use_saved_card|||Usa carta salvata
+use_saved_payment_method|||Usa metodo di pagamento salvato
+use_this_card_for_future_payments|||Usa questa carta per i pagamenti futuri
+user_blocked|||Utente bloccato
+username|||Nome utente
+username_can_only_contain_lowercase_letters_number|||Il nome utente può contenere solo lettere minuscole, numeri, _ e .
+username_is_required|||Il nome utente è obbligatorio
+username_lowercase_only|||Il nome utente deve essere solo in minuscolo
+username_must_be_at_least_2_characters_long|||Il nome utente deve essere di almeno 2 caratteri
+username_or_email|||Nome utente o email
+users_you_block_will_appear_here|||Gli utenti che blocchi appariranno qui
+valid_thru|||VALIDA FINO A
+validate_account|||Verifica account
+variantNumber|||Variante {number}
+verification_code|||Codice di verifica
+verification_code_resent|||Codice di verifica reinviato
+verification_code_sent|||Codice di verifica inviato alla tua email
+verification_failed|||Verifica fallita
+verification_sent_to|||Abbiamo inviato un codice di verifica a 8 cifre a:
+verification_submitted|||Verifica inviata
+verified_seller|||Venditore verificato
+verify|||Verifica
+verify_code|||Verifica codice
+verify_email|||Verifica email
+verify_your_identity_to_enable_biometric_authentic|||Verifica la tua identità per abilitare l\'autenticazione biometrica
+version_info|||Cultioo App v1.0.0
+view_details|||Visualizza dettagli
+view_previous_photo_requests|||Visualizza richieste foto precedenti
+view_terms_of_service|||Visualizza i nostri termini di servizio
+view_your_orders|||Visualizza i tuoi ordini
+virtualAccountError|||Errore account virtuale: {statusCode}
+virtual_ach_account|||Account ACH virtuale
+visa_mastercard_amex|||Visa, Mastercard, Amex
+waiting_for_ach_payment|||In attesa di pagamento ACH
+waiting_for_bank_transfer|||In attesa di bonifico bancario...
+waiting_for_drivers|||In attesa di autisti...
+waiting_for_drivers_1|||In attesa di autisti...
+waiting_for_photos|||In attesa di foto
+waiting_for_sepa_payment|||In attesa di pagamento SEPA
+waiting_for_temperature|||In attesa di temperatura
+waiting_for_wire_transfer|||In attesa di bonifico bancario
+warning_title|||Avviso
+weight_unit|||Unità di peso
+welcome_back|||Bentornato
+welcome_back_sign_in_to_continue|||Bentornato! Accedi per continuare.
+welcome_to_cultioo|||Benvenuto su Cultioo
+what_happens_if_payment_is_delayed|||Cosa succede se il pagamento è in ritardo
+wireEndingIn|||Bonifico •••• {last4}
+wire_transfer|||Bonifico bancario
+wire_transfer_for_large_payments_only_processing_m|||Bonifico bancario solo per pagamenti di grandi importi. L\'elaborazione potrebbe
+wire_transfer_instructions|||Istruzioni bonifico bancario
+wire_transfers_are_processed_the_same_or_next_busi|||I bonifici vengono elaborati lo stesso o il prossimo giorno lavorativo. Ideale p
+wiseEndingIn|||Wise •••• {last4}
+write_review|||Scrivi recensione
+yes|||Sì
+yesterday|||Ieri
+yesterdayAtTime|||Ieri, {time}
+yesterdayAtTimeMain|||Ieri alle {time}
+you_can_only_be_in_one_group_at_a_time|||Puoi essere in un solo gruppo alla volta
+you_have_blocked_this_user|||Hai bloccato questo utente
+you_will_be_removed_from_this_group|||Verrai rimosso da questo gruppo.
+you_will_no_longer_have_access_to_this_group|||Non avrai più accesso a questo gruppo.
+your_account|||Il tuo account
+your_account_number|||Il tuo numero di conto
+your_business_verification_request_has_been_submit|||La tua richiesta di verifica aziendale è stata inviata con successo.
+your_cart_is_empty|||Il tuo carrello è vuoto
+your_data_is_ssl_encrypted_and_secure|||I tuoi dati sono crittografati SSL e sicuri
+your_delivery_vehicle_will_be_professionally_clean|||Il tuo veicolo di consegna verrà pulito e certificato professionalmente prima de
+your_iban|||Il tuo IBAN
+your_name|||Il tuo nome
+your_order_has_been_placed_successfully|||Il tuo ordine è stato effettuato con successo
+your_order_history_will_appear_here_when_you_make_|||La cronologia dei tuoi ordini apparirà qui quando effettuerai acquisti.
+your_order_will_be_automatically_confirmed_once_pa|||Il tuo ordine verrà confermato automaticamente dopo la ricezione del pagamento (
+your_routing_number|||Il tuo numero di routing
+your_verification_code|||Il tuo codice di verifica è:
+zahlungsmethode_nicht_gefundennbitte_fge_eine_neue|||Metodo di pagamento non trovato.\nPer favore aggiungi una nuova carta.
+zip_code|||CAP

@@ -1,0 +1,47 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "easter-bunny.png",
+          "name" : "easter-bunny",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              -512,
+              82.2100298732671
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "glass" : true,
+          "image-name" : "cultioo_logo_logo.svg",
+          "name" : "cultioo_logo_logo",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              167.37231477839237,
+              -135.35864146596174
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "fill" : "system-light",
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "christmas-tree.png",
+          "name" : "christmas-tree",
+          "position" : {
+            "scale" : 2,
+            "translation-in-points" : [
+              303.49374999999986,
+              189.4001490794226
+            ]
+          }
+        },
+        {
+          "blend-mode" : "normal",
+          "glass" : true,
+          "image-name" : "cultioo_logo_logo.svg",
+          "name" : "cultioo_logo_logo",
+          "position" : {
+            "scale" : 1,
+            "translation-in-points" : [
+              -173.42499999999995,
+              -138.25707896596168
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}

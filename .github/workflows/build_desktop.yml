@@ -1,0 +1,61 @@
+name: Build Desktop Apps
+
+on:
+  push:
+    branches: [main, master]
+  workflow_dispatch:
+
+jobs:
+  build-windows:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: subosito/flutter-action@v2
+        with:
+          flutter-version: '3.32.0'
+          channel: 'stable'
+      - run: flutter pub get
+      - run: flutter build windows --release
+      - name: Verify Windows build exists
+        run: |
+          dir build\windows\x64\runner\Release\
+          if not exist "build\windows\x64\runner\Release\cultioo.exe" (
+            echo ERROR: cultioo.exe not found!
+            exit /b 1
+          )
+      - name: Copy release build for Inno Setup
+        run: |
+          if exist "windows\installer\release_build" rmdir /s /q windows\installer\release_build
+          mkdir windows\installer\release_build
+          xcopy /E /I /Y build\windows\x64\runner\Release\* windows\installer\release_build\
+          dir windows\installer\release_build\
+      - name: Build EXE Installer with Inno Setup
+        run: |
+          echo "Installing Inno Setup..."
+          choco install innosetup --no-progress -y
+          echo "Inno Setup installed"
+          echo "Building installer..."
+          iscc /DAppVersion=${{ github.run_number }}.0.0 windows\installer\cultioo.iss
+          echo "Checking for installer output..."
+          if not exist "windows\installer\installer_output\cultioo_setup.exe" (
+            echo ERROR: Installer creation failed!
+            dir windows\installer\
+            exit /b 1
+          )
+          echo "Moving installer to build folder..."
+          move windows\installer\installer_output\cultioo_setup.exe build\cultioo_setup.exe
+          echo "Installer ready!"
+      - name: Upload Windows Installer
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: windows-app
+          path: build/cultioo_setup.exe
+          retention-days: 30
+      - name: Show build directory on failure
+        if: failure()
+        run: |
+          echo "Build directory contents:"
+          dir build\
+          echo "Windows installer directory contents:"
+          dir windows\installer\ /s
