@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Cultioo
+Comment=Cultioo Application
+Exec=cultioo
+Icon=cultioo
+Categories=Business;
+Terminal=false

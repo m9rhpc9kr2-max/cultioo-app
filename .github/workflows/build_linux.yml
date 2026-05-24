@@ -32,6 +32,8 @@ jobs:
           cd build/linux/x64/release/bundle
           wget https://github.com/linuxdeploy/linuxdeploy/releases/download/continuous/linuxdeploy-x86_64.AppImage
           chmod +x linuxdeploy-x86_64.AppImage
+          mkdir -p AppDir/usr/share/applications
+          cp ../../../../linux/cultioo.desktop AppDir/usr/share/applications/
           ./linuxdeploy-x86_64.AppImage --appdir=AppDir --executable=./cultioo --output=appimage
           ls -la *.AppImage
       - name: Upload Linux AppImage
