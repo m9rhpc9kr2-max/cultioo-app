@@ -18,17 +18,17 @@ jobs:
       - run: flutter build windows --release
       - name: Verify Windows build exists
         run: |
-          dir build\windows\x64\runner\Release\
-          if not exist "build\windows\x64\runner\Release\cultioo.exe" (
-            echo ERROR: cultioo.exe not found!
-            exit /b 1
-          )
+          Get-ChildItem -Path "build\windows\x64\runner\Release\"
+          if (-not (Test-Path "build\windows\x64\runner\Release\cultioo.exe")) {
+            echo "ERROR: cultioo.exe not found!"
+            exit 1
+          }
       - name: Copy release build for Inno Setup
         run: |
-          if exist "windows\installer\release_build" rmdir /s /q windows\installer\release_build
-          mkdir windows\installer\release_build
-          xcopy /E /I /Y build\windows\x64\runner\Release\* windows\installer\release_build\
-          dir windows\installer\release_build\
+          if (Test-Path "windows\installer\release_build") { Remove-Item -Path "windows\installer\release_build" -Recurse -Force }
+          New-Item -ItemType Directory -Path "windows\installer\release_build" -Force | Out-Null
+          Copy-Item -Path "build\windows\x64\runner\Release\*" -Destination "windows\installer\release_build\" -Recurse -Force
+          Get-ChildItem -Path "windows\installer\release_build\"
       - name: Build EXE Installer with Inno Setup
         run: |
           echo "Installing Inno Setup..."
