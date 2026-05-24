@@ -23,9 +23,12 @@ jobs:
       - name: Verify Linux build exists
         run: |
           ls -la build/linux/x64/release/bundle/
-          if [ ! -f "build/linux/x64/release/bundle/cultioo" ]; then
+          if [ ! -f "build/linux/x64/release/bundle/cultioo" ] && [ ! -f "build/linux/x64/release/bundle/cultioo_new" ]; then
             echo "ERROR: cultioo executable not found!"
             exit 1
+          fi
+          if [ -f "build/linux/x64/release/bundle/cultioo_new" ]; then
+            mv build/linux/x64/release/bundle/cultioo_new build/linux/x64/release/bundle/cultioo
           fi
       - name: Create AppImage
         run: |
