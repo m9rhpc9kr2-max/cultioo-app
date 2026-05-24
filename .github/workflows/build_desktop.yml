@@ -56,6 +56,8 @@ jobs:
         if: failure()
         run: |
           echo "Build directory contents:"
-          dir build\
+          if (Test-Path "build") { Get-ChildItem -Path "build" -Recurse } else { echo "build directory not found" }
           echo "Windows installer directory contents:"
-          dir windows\installer\ /s
+          if (Test-Path "windows\installer") { Get-ChildItem -Path "windows\installer" -Recurse } else { echo "windows\installer directory not found" }
+          echo "Inno Setup output:"
+          if (Test-Path "windows\installer\installer_output") { Get-ChildItem -Path "windows\installer\installer_output" -Recurse } else { echo "installer_output directory not found" }
