@@ -33,18 +33,34 @@ jobs:
         run: |
           echo "Installing Inno Setup..."
           choco install innosetup --no-progress -y
-          echo "Inno Setup installed"
+          echo "Waiting for Inno Setup installation..."
+          Start-Sleep -Seconds 5
+          echo "Verifying Inno Setup installation..."
+          $isccPath = "C:\Program Files (x86)\Inno Setup 6\ISCC.exe"
+          if (Test-Path $isccPath) {
+            echo "Inno Setup found at: $isccPath"
+          } else {
+            echo "ERROR: Inno Setup not found at expected location"
+            Get-ChildItem "C:\Program Files (x86)\" | Where-Object { $_.Name -like "*Inno*" }
+            exit 1
+          }
           echo "Building installer..."
-          iscc /DAppVersion=${{ github.run_number }}.0.0 windows\installer\cultioo.iss
+          & $isccPath /DAppVersion=${{ github.run_number }}.0.0 "windows\installer\cultioo.iss"
+          if ($LASTEXITCODE -ne 0) {
+            echo "ERROR: Inno Setup compilation failed with exit code $LASTEXITCODE"
+            exit 1
+          }
           echo "Checking for installer output..."
-          if not exist "windows\installer\installer_output\cultioo_setup.exe" (
-            echo ERROR: Installer creation failed!
-            dir windows\installer\
-            exit /b 1
-          )
-          echo "Moving installer to build folder..."
-          move windows\installer\installer_output\cultioo_setup.exe build\cultioo_setup.exe
-          echo "Installer ready!"
+          if (Test-Path "windows\installer\installer_output\cultioo_setup.exe") {
+            echo "Installer created successfully"
+            echo "Moving installer to build folder..."
+            Move-Item -Path "windows\installer\installer_output\cultioo_setup.exe" -Destination "build\cultioo_setup.exe" -Force
+            echo "Installer ready!"
+          } else {
+            echo "ERROR: Installer creation failed!"
+            Get-ChildItem -Path "windows\installer" -Recurse
+            exit 1
+          }
       - name: Upload Windows Installer
         if: success()
         uses: actions/upload-artifact@v4
